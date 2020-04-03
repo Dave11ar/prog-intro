@@ -1,5 +1,3 @@
-prog-intro
-
 [Условия домашних заданий](http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
 
 ## Домашнее задание 13. Обработка ошибок
