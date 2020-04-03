@@ -1,5 +1,4 @@
-# Java-1-Sem
-Java HomeWorks
+prog-intro
 
 [Условия домашних заданий](http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
 
